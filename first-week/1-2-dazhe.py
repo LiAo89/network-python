@@ -20,4 +20,4 @@ print('总数{:.1f}：'.format(zongShu))
 print("单价{:.2f}".format(danJia))
 print("单价{:.2f}".format(danJia))
 print("单价{:.2f}".format(danJia))
-print("单价{:.2f}".format(danJia))
+print("单价{:.2f}".format(danJia)) #测试
